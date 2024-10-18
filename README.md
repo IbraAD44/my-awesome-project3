@@ -1,1 +1,1 @@
-# my-awesome-project3Remplis-la avec le texte "J'ai réussi à faire clone, pull et je m'apprête à faire push"
+# my-awesome-project3 This awesome project is created to experiment git notions like clone, push and pull
